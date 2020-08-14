@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.node.create;
+package com.xjm.hello.zookeeper.javaapi.node.create;
 
 import java.util.concurrent.CountDownLatch;
 import org.apache.zookeeper.AsyncCallback;

@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.session;
+package com.xjm.hello.zookeeper.javaapi.session;
 
 import java.util.concurrent.CountDownLatch;
 

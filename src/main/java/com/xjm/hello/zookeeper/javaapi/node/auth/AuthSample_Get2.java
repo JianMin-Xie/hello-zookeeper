@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.node.auth;
+package com.xjm.hello.zookeeper.javaapi.node.auth;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.ZooDefs.Ids;
 import org.apache.zookeeper.ZooKeeper;

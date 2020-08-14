@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.session;
+package com.xjm.hello.zookeeper.javaapi.session;
 
 import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;

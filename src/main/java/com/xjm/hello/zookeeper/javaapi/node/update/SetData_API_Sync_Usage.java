@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.node.update;
+package com.xjm.hello.zookeeper.javaapi.node.update;
 import java.util.concurrent.CountDownLatch;
 
 import org.apache.zookeeper.CreateMode;

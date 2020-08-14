@@ -20,7 +20,7 @@
 
     <dependencies>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
+        <!--zkclient Begin-->
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
@@ -32,6 +32,7 @@
             <artifactId>zkclient</artifactId>
             <version>0.1</version>
         </dependency>
+        <!--zkclient End-->
 
         <!-- curator -->
         <dependency>

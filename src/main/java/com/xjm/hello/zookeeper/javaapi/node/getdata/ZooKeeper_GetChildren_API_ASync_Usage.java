@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.node.getdata;
+package com.xjm.hello.zookeeper.javaapi.node.getdata;
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import org.apache.zookeeper.AsyncCallback;
