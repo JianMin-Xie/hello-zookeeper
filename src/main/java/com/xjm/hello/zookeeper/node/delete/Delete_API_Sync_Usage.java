@@ -1,4 +1,4 @@
-package com.xjm.hello.zookeeper.node;
+package com.xjm.hello.zookeeper.node.delete;
 import java.util.concurrent.CountDownLatch;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.WatchedEvent;
